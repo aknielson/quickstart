@@ -11,9 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "src\Client\Client.csproj", "{67E991E6-F41C-4917-B898-6350ED3F0112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2", "src\Client2\Client2.csproj", "{00CC3527-D964-4D38-8425-BB8AB56C3A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client2", "src\Client2\Client2.csproj", "{00CC3527-D964-4D38-8425-BB8AB56C3A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc", "src\mvc\mvc.csproj", "{19A13832-5611-486E-B9C6-6EA0C6D63089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvc", "src\mvc\mvc.csproj", "{19A13832-5611-486E-B9C6-6EA0C6D63089}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2B4CA9F-50C2-4CF8-83EB-9BCB4FB0DE9E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

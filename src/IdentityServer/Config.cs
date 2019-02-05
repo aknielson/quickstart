@@ -61,13 +61,17 @@ namespace IdentityServer
           AllowedScopes = {"api1"}
         },
         // other clients omitted...
-
         // OpenID Connect implicit flow client (MVC)
         new Client
         {
           ClientId = "mvc",
           ClientName = "MVC Client",
-          AllowedGrantTypes = GrantTypes.Implicit,
+          AllowedGrantTypes = GrantTypes.Hybrid,
+
+          ClientSecrets =
+          {
+            new Secret("secret".Sha256())  //todo: change to different value
+          },
 
           // where to redirect to after login
           RedirectUris = {"http://localhost:5002/signin-oidc"},
@@ -78,9 +82,31 @@ namespace IdentityServer
           AllowedScopes = new List<string>
           {
             IdentityServerConstants.StandardScopes.OpenId,
-            IdentityServerConstants.StandardScopes.Profile
-          }
+            IdentityServerConstants.StandardScopes.Profile,
+            "api1"
+          },
+          AllowOfflineAccess = true
         }
+
+        //// OpenID Connect implicit flow client (MVC)
+        //new Client
+        //{
+        //  ClientId = "mvc",
+        //  ClientName = "MVC Client",
+        //  AllowedGrantTypes = GrantTypes.Implicit,
+
+        //  // where to redirect to after login
+        //  RedirectUris = {"http://localhost:5002/signin-oidc"},
+
+        //  // where to redirect to after logout
+        //  PostLogoutRedirectUris = {"http://localhost:5002/signout-callback-oidc"},
+
+        //  AllowedScopes = new List<string>
+        //  {
+        //    IdentityServerConstants.StandardScopes.OpenId,
+        //    IdentityServerConstants.StandardScopes.Profile
+        //  }
+        //}
       };
     }
 
