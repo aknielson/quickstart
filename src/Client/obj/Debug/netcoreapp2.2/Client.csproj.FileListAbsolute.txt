@@ -1,0 +1,17 @@
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.dll
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.pdb
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.dll
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.pdb
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\IdentityModel.dll
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\IdentityModel.pdb
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\IdentityModel.xml
+D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache

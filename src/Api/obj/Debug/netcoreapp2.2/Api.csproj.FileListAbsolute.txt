@@ -1,0 +1,13 @@
+D:\source\spikes\ids4\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+D:\source\spikes\ids4\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+D:\source\spikes\ids4\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+D:\source\spikes\ids4\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.dll
+D:\source\spikes\ids4\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.pdb
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb

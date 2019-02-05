@@ -1,0 +1,11 @@
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.csprojAssemblyReference.cache
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.csproj.CoreCompileInputs.cache
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.AssemblyInfoInputs.cache
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.AssemblyInfo.cs
+D:\source\spikes\ids4\quickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.deps.json
+D:\source\spikes\ids4\quickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.runtimeconfig.json
+D:\source\spikes\ids4\quickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.runtimeconfig.dev.json
+D:\source\spikes\ids4\quickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.dll
+D:\source\spikes\ids4\quickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.pdb
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.dll
+D:\source\spikes\ids4\quickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.pdb
