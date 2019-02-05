@@ -14,4 +14,3 @@ D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\IdentityMode
 D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\IdentityModel.xml
 D:\source\spikes\ids4\quickstart\src\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
 D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
-D:\source\spikes\ids4\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache

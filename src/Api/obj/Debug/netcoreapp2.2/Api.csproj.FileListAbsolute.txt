@@ -11,3 +11,4 @@ D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInf
 D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
 D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
 D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb
+D:\source\spikes\ids4\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
