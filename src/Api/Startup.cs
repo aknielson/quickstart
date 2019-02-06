@@ -37,6 +37,17 @@ namespace Api
 
           options.Audience = "api1";
         });
+
+      services.AddCors(options =>
+      {
+        // this defines a CORS policy called "default"
+        options.AddPolicy("default", policy =>
+        {
+          policy.WithOrigins("http://localhost:5003")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+        });
+      });
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +63,7 @@ namespace Api
         app.UseHsts();
       }
 
-
+      app.UseCors("default");
       app.UseAuthentication();
       app.UseMvc();
     }

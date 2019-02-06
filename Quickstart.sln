@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JavaScriptClient", "src\JavaScriptClient\JavaScriptClient.csproj", "{BCFA981E-EFC8-4F7A-B45B-B8A642047395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +92,18 @@ Global
 		{19A13832-5611-486E-B9C6-6EA0C6D63089}.Release|x64.Build.0 = Release|Any CPU
 		{19A13832-5611-486E-B9C6-6EA0C6D63089}.Release|x86.ActiveCfg = Release|Any CPU
 		{19A13832-5611-486E-B9C6-6EA0C6D63089}.Release|x86.Build.0 = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|x64.Build.0 = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Debug|x86.Build.0 = Debug|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|x64.ActiveCfg = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|x64.Build.0 = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|x86.ActiveCfg = Release|Any CPU
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +114,7 @@ Global
 		{67E991E6-F41C-4917-B898-6350ED3F0112} = {6A36C89D-0978-4060-8A3D-595C98FCCA9A}
 		{00CC3527-D964-4D38-8425-BB8AB56C3A5C} = {6A36C89D-0978-4060-8A3D-595C98FCCA9A}
 		{19A13832-5611-486E-B9C6-6EA0C6D63089} = {6A36C89D-0978-4060-8A3D-595C98FCCA9A}
+		{BCFA981E-EFC8-4F7A-B45B-B8A642047395} = {6A36C89D-0978-4060-8A3D-595C98FCCA9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABBF12D5-E829-4297-AC06-E6018D65050C}

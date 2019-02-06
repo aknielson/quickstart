@@ -9,6 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.dll
+*Debug*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -339,3 +341,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.dll
+src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.dll
+src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.dll
+src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.pdb
+src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.pdb
+src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.dll
